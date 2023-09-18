@@ -1,0 +1,14 @@
+{
+  "hash": "f5874c762dfc1e31d96a555d60b4efce",
+  "result": {
+    "markdown": "---\ntitle: \"What Makes Me Tick\"\nsubtitle: \"Research, Road Rage and Coding\"\ndate: 2023-09-11\neditor: visual\nauthor: \"Paid for by the Candidate\"\ntitle-block-banner: true\nanchor-sections: true\nfontcolor: \"blue\"\n---\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

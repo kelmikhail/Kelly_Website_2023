@@ -1,0 +1,14 @@
+---
+title: "What Makes Me Tick"
+subtitle: "Research, Road Rage and Coding"
+date: 2023-09-11
+editor: visual
+author: "Paid for by the Candidate"
+title-block-banner: true
+anchor-sections: true
+fontcolor: "blue"
+---
+
+```{r}
+
+```

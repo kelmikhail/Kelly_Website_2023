@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kelly_Website_2023",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#smaller",
+    "href": "index.html#smaller",
+    "title": "Kelly_Website_2023",
+    "section": "1.1 Smaller",
+    "text": "1.1 Smaller"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

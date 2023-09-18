@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kelly_Website_2023"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: Page2.qmd
+        text: What Makes Me Tick
+        icon: cup-hot
+
+format:
+  html:
+    theme: Quartz
+    css: styles.css
+    toc: true
+    number-sections: true
+
+editor: visual
+
+
